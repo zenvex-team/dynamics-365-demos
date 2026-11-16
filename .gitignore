@@ -1,0 +1,7 @@
+.env
+*.pfx
+*.key
+bin/
+obj/
+node_modules/
+out/
